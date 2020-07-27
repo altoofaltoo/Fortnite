@@ -1,15 +1,28 @@
-
-  hr {
-    border-style:dotted none none;
-    border-color: gray;
-    border-width: 5px;
-    width:5%;
-  }
-
-  h1{
-    color: red;
+body {
+  text-align: left;
 }
 
-  h3{
-    color: red;
+hr {
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: red;
+  font-family: cursive;
+}
+
+h3 {
+  color: red;
+  font-family: cursive;
+}
+
+.green {
+  background-color: green;
+}
+
+button {
+  background-color: orange;
 }

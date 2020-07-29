@@ -6,7 +6,7 @@ hr {
   border-style: dotted none none;
   border-color: gray;
   border-width: 5px;
-  width: 5%;
+  width: 0px;
 }
 
 h1 {
@@ -26,7 +26,6 @@ h3 {
 button {
   background-color: orange;
 }
-
 
 .btn {
   background: #0fc21b;
@@ -53,4 +52,8 @@ button {
   background-image: -o-linear-gradient(top, #eb8d1a, #3800f0);
   background-image: linear-gradient(to bottom, #eb8d1a, #3800f0);
   text-decoration: none;
+}
+
+hr{
+  padding: 50px;
 }
